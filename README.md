@@ -4,7 +4,8 @@
 - Still have a few videos of development of various projects that I might upload sometime in the future 
 - Uploading a few projects I've worked on in the last few months to this github page
 - Will be uploading future projects here
-- ![alt text](https://www.citypng.com/public/uploads/preview/hd-python-logo-symbol-transparent-png-735811696257415dbkifcuokn.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)
 
 2022
 - 👋 Hi, I’m @frogdev-yt
