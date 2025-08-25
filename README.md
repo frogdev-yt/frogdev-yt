@@ -4,7 +4,9 @@
 - Still have a few videos of development of various projects that I might upload sometime in the future 
 - Uploading a few projects I've worked on in the last few months to this github page
 - Will be uploading future projects here
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)![](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png)
+  <img width="800" height="901" alt="image" src="https://github.com/user-attachments/assets/8bd2e2bb-2f93-40ba-a923-e0788bc0ef3e" /><img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2554ca1-be67-44b1-934b-6c344807a625" />
+
+
 
 2022
 - 👋 Hi, I’m @frogdev-yt
