@@ -1,3 +1,11 @@
+2025
+- Looking for some kind of study/work in software development/engineering
+- Still have a few videos of development of various projects that I might upload sometime in the future 
+- Uploading a few projects I've worked on in the last few months to this github page
+- Will be uploading future projects here
+- Currently programming in C++ and Python mostly, less game development more software and automation tool development (stuff that makes my life easier or stuff I want to see made)
+
+2022
 - 👋 Hi, I’m @frogdev-yt
 - 🎮 I make games as a little passion project which I hope to someday turn into a career
 - 🎥 I also make videos about those games
