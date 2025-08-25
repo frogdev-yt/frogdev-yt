@@ -4,7 +4,7 @@
 - Still have a few videos of development of various projects that I might upload sometime in the future 
 - Uploading a few projects I've worked on in the last few months to this github page
 - Will be uploading future projects here
-  <img width="800" height="901" alt="image" src="https://github.com/user-attachments/assets/8bd2e2bb-2f93-40ba-a923-e0788bc0ef3e" /><img width="1200" height="1200" alt="image" src="https://github.com/user-attachments/assets/b2554ca1-be67-44b1-934b-6c344807a625" />
+  <img width="80" height="90" alt="image" src="https://github.com/user-attachments/assets/8bd2e2bb-2f93-40ba-a923-e0788bc0ef3e" /><img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/b2554ca1-be67-44b1-934b-6c344807a625" />
 
 
 
